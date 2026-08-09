@@ -6,22 +6,22 @@
 
 My name is Davi Montijo, I'm a Systems Development student at COLTEC-UFMG with a strong interest in technology, programming logic, and building efficient software solutions.
 
-I currently study programming and software development, focusing on Python, Java, C/C++, databases, and web applications.
+I currently study programming and software development, focusing on Python, Java, databases, and web applications.
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,flask,mysql,sqlite,docker,git,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,flask,mysql,sqlite,docker,git,linux,bash" />
 </a>
 
 ---
 
 ### 📌 Currently
 
-- 📚 **Studying:** Java, Python, C/C++, databases, and web development fundamentals.
-- 🛠️ **Building:** Personal and academic projects using Flask, MySQL, SQLite, and C/C++.
+- 📚 **Studying:** Java, Python, Bash, GIT, databases, and other technologies.
+- 🛠️ **Building:** Personal and academic projects using Flask, MySQL, SQLite.
 - 🐧 **Exploring:** Linux systems, terminal environments, and Bash scripting.
 - ⚙️ **Improving:** My knowledge of Git, GitHub workflows, data structures, and programming logic.
 
