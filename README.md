@@ -15,7 +15,7 @@
 
 - **Systems Development** student at **Coltec UFMG**
 - Tech enthusiast, with a strong interest in technology, programming logic, and building efficient software solutions
-- I currently study programming and software development, focusing on Python, Java, databases, and web applications.
+- I currently study programming and software development, focusing on Python, Java, databases, and web applications
 - How to reach me:
 
 <p align="center">
